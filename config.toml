@@ -1,0 +1,108 @@
+############################ Default configuration #########################
+baseURL = "https://examplesite.com/"
+languageCode = "en-us"
+# site title 
+title = "Greppman | Fixa fler kunder idag"
+# theme
+theme = "northendlab-hugo-master"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "contact"
+name = "Kontakt"
+weight = 1
+
+[[menu.main]]
+URL = "tools"
+name = "Verktyg"
+weight = 2
+
+# footer menu
+[[menu.footer]]
+URL = "contact"
+name = "Kontakt"
+weight = 1
+
+[[menu.footer]]
+URL = "tools"
+name = "Verktyg"
+weight = 2
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = ""
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+# google tag manager
+google_tag_manager = "" # your id
+# google analitycs ID
+google_analitycs_id = "" # your id
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; 2020 Greppman Alla Rättigheter Reserverade"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = false
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Hjälper företagare få fler kunder från nätet den enkla vägen."
+image = "images/banner/illustration.svg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/hugo-muscot.svg"
+title = "Ska jag ta en snabbtitt på din hemsida?"
+description = "Gratis såklart. Jag kollar så att ni inte förlorar kunder!"
+[params.cta.button]
+enable = true
+label = "Klicka Här"
+link = "https://gethugothemes.com/shop/"
