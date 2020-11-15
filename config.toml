@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "www.greppman.se"
+baseURL = "https://www.greppman.se"
 languageCode = "en-us"
 # site title 
 title = "Greppman | Fixa fler kunder idag"
