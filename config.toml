@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://objective-panini-1b6968.netlify.app/"
+baseURL = "https://www.greppman.se"
 languageCode = "en-us"
 # site title 
 title = "Greppman | Fixa fler kunder idag"
