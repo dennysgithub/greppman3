@@ -1,4 +1,5 @@
 <article class="mb-5">
+  <img class="img-fluid w-100 mb-4" src="{{ .Params.Image | relURL }}">
   <h2 class="h4"><a class="post-title" href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
   <div class="mb-3 post-meta">
     <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title }}</a>,
