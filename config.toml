@@ -64,9 +64,9 @@ weight = 2
 ######################### Default Parameters ###########################
 [params]
 # home
-home = "Home"
+home = "Hem"
 # logo
-logo = ""
+logo = "images/logo.png"
 # meta data
 author = "Themefisher"
 description = "This is meta description"
