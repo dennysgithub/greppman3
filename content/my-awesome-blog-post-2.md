@@ -1,5 +1,5 @@
 +++
-title = "My awesome second blog post"
+title = "Få fler kunder med 4 enkla trix"
 image = "/images/post/post-2.jpg"
 author = "John Doe"
 date = 2019-11-07T05:00:00Z
