@@ -2,7 +2,7 @@
 baseURL = "https://www.greppman.se"
 languageCode = "en-us"
 # site title 
-title = "Greppman | Fixa fler kunder idag"
+title = "Greppman SEO"
 # theme
 theme = "northendlab-hugo-master"
 # post pagination
