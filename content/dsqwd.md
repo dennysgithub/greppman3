@@ -3,7 +3,7 @@ author = "DAN"
 categories = []
 date = 2020-11-14T23:00:00Z
 description = "Är du en lokal företagare så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles ”3-pack”."
-image = "/images/post/post-5.jpg"
+image = "/images/5-faktorer-thumbnail.png"
 title = "Fem faktorer som påverkar din Google Maps ranking"
 type = "post"
 
