@@ -8,7 +8,7 @@ title = "Fem faktorer som påverkar din ranking i Google Maps"
 type = "post"
 
 +++
-**Är du en lokal företagare** så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles 3-pack. (exempel på ett 3-pack nedan)
+**Är du en lokal företagare** så är en plats i Google Maps 3-pack enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles 3-pack. (exempel på ett 3-pack nedan)
 
 ![](/images/snack-pack-01.png)
 
@@ -20,7 +20,7 @@ Att verifiera din Google My Business profil är viktigt, inte bara för bättre 
 
 Om du inte vet om din profil är verifierad så kan du använda [Google's verifieringskontroll](https://support.google.com/business/workflow/9289460?hl=sv "Google's verifieringskontroll")
 
-Har du inte verifierat din profil än så kan du enkelt göra det genom att [den här länken](https://support.google.com/business/answer/7107242?hl=sv "den här länken") besöka och följa stegen som Google tar dig igenom.
+Har du inte verifierat din profil än så kan du enkelt göra det genom att besöka [den här länken](https://support.google.com/business/answer/7107242?hl=sv "den här länken") och följa stegen som Google tar dig igenom.
 
 När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.
 
