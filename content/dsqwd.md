@@ -17,7 +17,7 @@ Snabblänkar:<ol>
 
 <li><a href="#steg3"> Välj rätt företagskategori & underkategori(er).</a></li>
 
-<li><a href="#steg4">Utnyttja Google Inlägg till fullo!</a></li>  
+<li><a href="#steg4">Utnyttja Google Inlägg till fullo!</a></li></br>
 
 Är du en lokal företagare så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles ”3-pack”.
 
