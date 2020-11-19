@@ -13,7 +13,7 @@ Snabblänkar:
 
 <ol>
 
-<li><a href="#steg1">Verifiera din Google My Busines s profil.</a></li>
+<li><a href="#steg1">Verifiera din Google My Business profil.</a></li>
 
 <li><a href="#steg2">Se till så att din NAP är korrekt.</a></li>
 
