@@ -10,7 +10,7 @@ type = "post"
 
 +++
 <ol>
-  <li><a href="#verifiera">**Verifiera din Google My Business profil.**</a></li>
+  <a href="#verifiera"><li>**Verifiera din Google My Business profil.**</li></a>
 
 
 
