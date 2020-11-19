@@ -68,7 +68,7 @@ Ett bra knep är att skapa en anpassad länk som när man klickar på direkt öp
 
 Att be om en recension i ett sms eller mejl och skicka med länken gör det betydligt enklare för både dig och kunden.
 
-Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plakat på butiksdisken med en uppmaning om att lämna en recension, eller varför inte sätta den på papper som ändå ska skickas ut till kunderna.<br>
+Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plakat på butiksdisken med en uppmaning om att lämna en recension, eller varför inte sätta den på papper som ändå ska skickas ut till kunderna.<br><br>
 
 #### **Så, där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
 
@@ -78,4 +78,4 @@ Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plak
 
 Ju mer engagerande den är, desto längre kommer folk stanna på profilen och det skickar signaler till Google att din profil är värdefull för besökarna och du blir belönad med bättre ranking.
 
-**Lycka till!**
+### **Lycka till!**
