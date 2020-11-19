@@ -47,7 +47,7 @@ Ta brottmålsadvokat som exempel.
 
 Om jag söker på ”brottmålsadvokat göteborg” så ser jag att den som som ligger överst har valt just ”brottmålsadvokat” som sin kategori medan företagen som hamnar under har valt ”Advokatbyrå” som kategori.
 
-![](/images/brottmalsadvokat-gmb1.png)
+![](/images/kategori-01.png)
 
 Nu kanske det är så att företaget utanför 3-packet inte bara sysslar med brottmål och därför har de valt ”Advokatbyrå” som sin kategori, men om det inte är så, så hade en ändring av kategori gjort nytta här.
 
