@@ -49,13 +49,13 @@ Om jag söker på ”brottmålsadvokat göteborg” så ser jag att den som som 
 
 ![](/images/kategori-01.png)
 
-Nu kanske det är så att företaget utanför 3-packet inte bara sysslar med brottmål och därför har de valt ”Advokatbyrå” som sin kategori, men om det inte är så, så hade en ändring av kategori gjort nytta här.
+Nu kanske det är så att företaget utanför 3-packet inte bara sysslar med brottmål och därför har de valt ”Advokatbyrå” som sin kategori, men om det inte är så, så hade en ändring av kategori gjort nytta här.<br>
 
 ## **Hemsidan.**
 
 Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra till din ranking i Google Maps så se till så din hemsida är ordentligt sökmotoroptimerad.
 
-Har du en verksamhet som finns på olika platser i landet och således har flera olika Google My Business profiler? Då rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.
+Har du en verksamhet som finns på olika platser i landet och således har flera olika Google My Business profiler? Då rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.<br>
 
 ## **Recensioner.**
 
