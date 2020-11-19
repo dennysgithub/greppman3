@@ -19,7 +19,9 @@ Det finns många olika funktioner i Google My Business men endast fem har enligt
 
 **Faktor nummer ett:**
 
-[**Verifiera din Google My Business profil.**]()
+<h2><a id="verifiera"></a>**Verifiera din Google My Business profil.**</h2>
+
+**Verifiera din Google My Business profil.**
 
 Att verifiera din Google My Business profil är viktigt, inte bara för bättre ranking men också av säkerhetsskäl. När din profil inte är verifierad så kan vem som helst ändra informationen eller t.om. ta över ägarskapet för den.
 
