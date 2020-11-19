@@ -54,7 +54,7 @@ Nu kanske det är så att företagen under inte bara sysslar med brottmål och d
 
 ## **4. En väloptimerad hemsida.**
 
-Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra till din ranking i Google Maps, så se till så din hemsida är ordentligt sökmotoroptimerad.
+Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra till din ranking i Google Maps, **så se till så din hemsida är ordentligt sökmotoroptimerad**.
 
 Har du en verksamhet som finns på olika platser i landet och således har flera olika Google My Business profiler? Då rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.<br>
 
@@ -66,7 +66,7 @@ Föga förvånande är recensioner väldigt kraftfulla när det gäller ens rank
 
 Ofta är detta något företagare förbiser, att aktivt be sina kunder lämna en recension, kanske för att de inte förstår vikten av dem eller för att det känns obekvämt att göra så.
 
-Ett bra knep är att skapa en anpassad länk som när man klickar på direkt öppnar upp rutan för att lämna en recension på profilen.
+**Ett bra knep** är att skapa en anpassad länk som när man klickar på direkt öppnar upp rutan för att lämna en recension på profilen.
 
 Att be om en recension i ett sms eller mejl och skicka med länken gör det betydligt enklare för både dig och kunden.
 
