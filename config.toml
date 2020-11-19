@@ -106,3 +106,6 @@ description = "Gratis såklart. Jag kollar så att ni inte förlorar kunder!"
 enable = true
 label = "Klicka Här"
 link = "https://gethugothemes.com/shop/"
+
+[blackfriday]
+    extensions = [hardLineBreak]
