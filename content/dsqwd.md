@@ -9,7 +9,7 @@ title = "Fem faktorer som påverkar din Google Maps ranking"
 type = "post"
 
 +++
-
+Snabblänkar:
 <a href="#verifiera">**Verifiera din Google My Business profil.**</a>
 
 
