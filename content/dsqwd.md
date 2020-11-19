@@ -9,7 +9,7 @@ title = "Fem faktorer som påverkar din Google Maps ranking"
 type = "post"
 
 +++
-**Här kommer fem faktorer som påverkar din ranking i Google Maps!**
+<a name="verifiera">**Verifiera din Google My Business profil.**</a>
 
 Är du en lokal företagare så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles ”3-pack”.
 
@@ -17,7 +17,7 @@ Det finns många olika funktioner i Google My Business men endast fem har enligt
 
 **Faktor nummer ett:**
 
-**Verifiera din Google My Busines profil.**
+**Verifiera din Google My Business profil.**
 
 Att verifiera din Google My Business profil är viktigt, inte bara för bättre ranking men också av säkerhetsskäl. När din profil inte är verifierad så kan vem som helst ändra informationen eller t.om. ta över ägarskapet för den.
 
