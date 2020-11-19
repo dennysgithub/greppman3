@@ -18,7 +18,7 @@ Det finns många olika funktioner i Google My Business men fem av dom har enligt
 
 Att verifiera din Google My Business profil är viktigt, inte bara för bättre ranking men också av säkerhetsskäl. När din profil inte är verifierad så kan vem som helst ändra informationen eller t.om. ta över ägarskapet för den.
 
-Om du inte vet om din profil är verifierad så kan du använda <a href="[https://support.google.com/business/workflow/9289460?hl=sv](https://support.google.com/business/workflow/9289460?hl=sv "https://support.google.com/business/workflow/9289460?hl=sv")" target="_blank">Google's verifieringskontroll.</a>
+Om du inte vet om din profil är verifierad så kan du använda <a href="https://support.google.com/business/workflow/9289460?hl=sv" target="_blank">Google’s verifieringskontroll.</a>
 
 Har du inte verifierat din profil än så kan du enkelt göra det genom att besöka<a href="[https://support.google.com/business/workflow/9289460?hl=sv](https://support.google.com/business/workflow/9289460?hl=sv "https://support.google.com/business/workflow/9289460?hl=sv")" target="_blank"> den här länken</a> och följa stegen som Google tar dig igenom.
 
