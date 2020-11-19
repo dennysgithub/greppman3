@@ -81,3 +81,5 @@ Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plak
 Ju mer engagerande den är, desto längre kommer folk stanna på profilen och det skickar signaler till Google att din profil är värdefull för besökarna och du blir belönad med bättre ranking.<br>
 
 ### **Lycka till!**
+
+<iframe src="[https://www.google.com/maps/embed?pb=](https://www.google.com/maps/embed?pb= "https://www.google.com/maps/embed?pb=")!1m18!1m12!1m3!1d34511.710223560796!2d12.52539185!3d57.2740374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4650248d1ad50c9b%3A0x13e027ef119db336!2sStacken%C3%A4s%20naturreservat!5e0!3m2!1sen!2sse!4v1605827734144!5m2!1sen!2sse" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
