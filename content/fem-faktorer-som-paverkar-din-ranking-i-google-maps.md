@@ -22,9 +22,7 @@ Om du inte vet om din profil är verifierad så kan du använda [Google's verifi
 
 Har du inte verifierat din profil än så kan du enkelt göra det genom att besöka [den här länken](https://support.google.com/business/answer/7107242?hl=sv "den här länken") och följa stegen som Google tar dig igenom.
 
-När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.  
-
-  
+När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.
 
 ## **2. Val av företagsnamn.**
 
@@ -36,7 +34,7 @@ Här ser du t.ex. ett företag som skapat en profil som heter "Rörmokarn' i Gö
 
 ![](/images/foretagsnamn-gmb.gif)
 
-Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google.\\ 
+Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google. \\
 
 ## **3. Val av kategori.**
 
