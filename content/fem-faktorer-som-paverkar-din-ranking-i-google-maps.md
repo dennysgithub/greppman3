@@ -14,7 +14,7 @@ type = "post"
 
 Det finns många olika funktioner i Google My Business men fem av dom har enligt tester visat sig ha ett direkt inflytande på rankingen. Här kommer dem! </br><a name="verifiera"></a><br>
 
-## **Verifiera din Google My Business profil.**
+## **1. Verifiera din Google My Business profil.**
 
 Att verifiera din Google My Business profil är viktigt, inte bara för bättre ranking men också av säkerhetsskäl. När din profil inte är verifierad så kan vem som helst ändra informationen eller t.om. ta över ägarskapet för den.
 
@@ -26,7 +26,7 @@ När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod so
 
 <br>
 
-## **Företagsnamnet.**
+## **2. Val av företagsnamn.**
 
 Företagsnamnet kan ha en stor påverkan på din plats i Google Maps listan, vilket är lite olyckligt.
 
@@ -38,7 +38,7 @@ Här ser du t.ex. ett företag som skapat en profil som heter "Rörmokarn' i Gö
 
 Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google.<br>
 
-## **Val av kategori.**
+## **3. Val av kategori.**
 
 Välj den kategorin som bäst beskriver er verksamhet. Men ta även en titt på konkurrenterna som rankar överst i Google Maps listan, vad har de valt för kategori? Oftast kan man se ett tydligt mönster där.
 
@@ -50,13 +50,13 @@ Om jag söker på ”brottmålsadvokat göteborg” så ser jag att den som som 
 
 Nu kanske det är så att företagen under inte bara sysslar med brottmål och därför har de valt ”Advokatbyrå” som sin kategori, men om det inte är så, så hade en ändring av kategori gjort nytta här.<br>
 
-## **Hemsidan.**
+## **4. En väloptimerad hemsida.**
 
-Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra till din ranking i Google Maps så se till så din hemsida är ordentligt sökmotoroptimerad.
+Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra till din ranking i Google Maps, så se till så din hemsida är ordentligt sökmotoroptimerad.
 
 Har du en verksamhet som finns på olika platser i landet och således har flera olika Google My Business profiler? Då rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.<br>
 
-## **Recensioner.**
+## **5. Recensioner, ju fler desto bättre.**
 
 Föga förvånande är recensioner väldigt kraftfulla när det gäller ens ranking så se till att samla på er så många 5-stjärniga recensioner som möjligt.
 
