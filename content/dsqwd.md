@@ -25,8 +25,6 @@ Snabblänkar:
 
 Det finns många olika funktioner i Google My Business men endast fem har enligt tester visat sig ha ett direkt inflytande på rankingen.
 
-**Faktor nummer ett:**
-
 ## **Verifiera din Google My Business profil.**
 
 <a name="steg1"></a>
