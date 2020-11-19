@@ -23,7 +23,9 @@ Om du inte vet om din profil är verifierad så kan du använda <a href=[https:/
 
 Har du inte verifierat din profil än så kan du enkelt göra det genom att besöka<a href=[https://support.google.com/business/workflow/9289460?hl=sv](https://support.google.com/business/answer/7107242?hl=sv)" target="_blank"> den här länken</a> och följa stegen som Google tar dig igenom. 
 
-![](/images/google-my-business-claim-company.gif)När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.
+![](/images/gmb-verifiera.gif)
+
+När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.
 
   <br>
 
