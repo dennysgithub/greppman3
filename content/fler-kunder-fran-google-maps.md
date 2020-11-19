@@ -4,7 +4,7 @@ description = "Optimera Google My Business och ranka högre i Google Maps för a
 summary = "Optimera Google My Business och ranka högre i Google Maps för att få fler nya kunder varje dag."
 image = "/images/post/optimera-google-my-business-profil.png"
 kategorier = ["Google My Business"]
-title = "Optimera Google My Business 2021: Fullständig Guide"
+title = "Fixa fler kunder från Google Maps 2021: Fullständig Guide"
 type = "post"
 
 +++
