@@ -25,8 +25,6 @@ Har du inte verifierat din profil än så kan du enkelt göra det genom att bes�
 
 ![](/images/google-my-business-claim-company.gif)När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.
 
-Länk nr2: [https://support.google.com/business/answer/7107242?hl=sv](https://support.google.com/business/workflow/9289460 "https://support.google.com/business/workflow/9289460")
-
   
 
 ## **Företagsnamnet.**
