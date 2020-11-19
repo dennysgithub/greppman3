@@ -39,7 +39,7 @@ Här ser du t.ex. ett företag som skapat en profil som heter "Rörmokarn' i Gö
 
 Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google.<br>
 
-## **Val av kategorier.**
+## **Val av kategori.**
 
 Välj den kategorin som bäst beskriver er verksamhet. Men ta även en titt på konkurrenterna som rankar överst i Google Maps listan, vad har de valt för kategori? Oftast kan man se ett tydligt mönster där.
 
