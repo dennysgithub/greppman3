@@ -19,7 +19,7 @@ Att verifiera din Google My Business profil är viktigt, inte bara för bättre 
 
 Om du inte vet om din profil är verifierad så kan du använda <a href=[https://support.google.com/business/workflow/9289460?hl=sv](https://support.google.com/business/workflow/9289460?hl=sv)" target="_blank">Google's verifieringskontroll.</a>
 
-Har du inte verifierat din profil än så kan du enkelt göra det genom att besöka länk nummer två under videon och följa stegen som Google tar dig igenom. När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.
+Har du inte verifierat din profil än så kan du enkelt göra det genom att besöka<a href=[https://support.google.com/business/workflow/9289460?hl=sv](https://support.google.com/business/answer/7107242?hl=sv)" target="_blank">den här länken</a> och följa stegen som Google tar dig igenom. När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.
 
 Länk nr2: [https://support.google.com/business/answer/7107242?hl=sv](https://support.google.com/business/workflow/9289460 "https://support.google.com/business/workflow/9289460")
 
