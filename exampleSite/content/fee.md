@@ -8,74 +8,36 @@ title = "fee"
 type = "post"
 
 +++
-\**Här kommer fem faktorer som påverkar din ranking i Google Maps!**
+\+++
 
-Är du en lokal företagare så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles "3-pack".
+title = "Bilhandlare får nu ha flera Google My Business profiler"
 
-Det finns många olika funktioner i Google My Business men endast fem har enligt tester visat sig ha ett direkt inflytande på rankingen.
+image = "/images/post/google-logo.jpg"
 
-\**Faktor nummer ett:**
+date = 2020-03-12T05:00:00Z
 
-\**Verifiera din Google My Busines profil.**
+description = "Google har uppdaterat sina riktlinjer för att tillåta bilhandlare ha flera olika Google My Business konton."
 
-Att verifiera din Google My Business profil är viktigt, inte bara för bättre ranking men också av säkerhetsskäl. När din profil inte är verifierad så kan vem som helst ändra informationen eller t.om. ta över ägarskapet för den.
+type = "post"
 
-Om du inte vet om din profil är verifierad så kan du använda Google's verifieringskontroll, länken hittar du nedanför videon.
+kategorier = \["Google My Business"\]
 
-Länk nr1: <[https://support.google.com/business/workflow/9289460](https://support.google.com/business/workflow/9289460 "https://support.google.com/business/workflow/9289460")>
+\+++
 
-Har du inte verifierat din profil än så kan du enkelt göra det genom att besöka länk nummer två under videon och följa stegen som Google tar dig igenom. När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod som du behöver knappa in. Brevet kan dröja ett par veckor innan det kommer fram.
+Google har uppdaterat sina riktlinjer för att tillåta bilhandlare ha flera olika Google My Business profiler. **Nu har bilhandlare rätt till en profil för varje bilmärke de säljer och även ett konto vardera för företagets olika avdelningar; försäljning, bildelar och kundservice.**
 
-Länk nr2: <[https://support.google.com/business/answer/7107242?hl=sv](https://support.google.com/business/answer/7107242?hl=sv "https://support.google.com/business/answer/7107242?hl=sv")>
+\*Detta gäller endast för bilhandlare som sysslar med försäljning av nya bilar.*
 
-\**Faktor nummer två:**
+För att komma åt den här funktionen krävs det att profilen är markerad som "bilhandlare" och då skall den nya funktionen dyka upp i kontrollpanelen. 
 
-\**Företagsnamnet.**
+\**Utdrag från Googles uppdaterade riktlinjer:**
 
-Företagsnamnet kan ha en stor påverkan på din plats i Google Maps listan, vilket är lite olyckligt.
+\* New car dealerships are eligible for multiple listings. You can have one listing for your dealership and one listing for each brand you sell of new cars.
 
-Du har kanske ingen större lust att ändra ditt företagsnamn eller ens möjlighet att göra så men vad du kan göra är att titta på dina konkurrenter som drar fördel av detta genom att lägga till s.k "sökord" i sina företagsnamn och föreslå en ändring eftersom det strider mot Googles riktlinjer.
+If you want additional listings for the departments within your dealership, for example, sales, parts, or services, repeat the process above using the name of your dealership with the department name. When your listings are verified, contact support to have your service department labeled as within your dealership.
 
-Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället.
+{{< tweet 1227336181291110401 >}}    
 
-\**Faktor nummer tre:**
+  
 
-\**Kategorier.**
-
- Välj den kategorin som bäst beskriver er verksamhet. Men ta även en titt på konkurrenterna som rankar överst i Google Maps listan, vad har de valt för kategori? Oftast kan man se ett tydligt mönster där.
-
-Ta brottmålsadvokat som exempel.
-
- Om jag söker på "brottmålsadvokat göteborg" så ser jag att de tre som som hamnar överst har valt just "brottmålsadvokat" som sin kategori medan företaget som hamnar precis utanför 3-packet har valt "Advokatbyrå".
-
-Nu kanske det är så att företaget utanför 3-packet inte bara sysslar med brottmål och därför har de valt "Advokatbyrå" som sin kategori, men om det inte är så, så hade en ändring av kategori gjort nytta här.
-
-\**Faktor nummer fyra:**
-
-\**Hemsidan.**
-
-Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra till din ranking i Google Maps så se till så din hemsida är ordentligt sökmotoroptimerad.
-
-Har du en verksamhet som finns på olika platser i landet och således har flera olika Google My Business profiler? Då rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.
-
-\**Faktor nummer fem:**
-
-\**Recensioner.**
-
-Föga förvånande är recensioner väldigt kraftfulla när det gäller ens ranking så se till att samla på er så många 5-stjärniga recensioner som möjligt.
-
-Ofta är detta något företagare förbiser, att aktivt be sina kunder lämna en recension, kanske för att de inte förstår vikten av dem eller för att det känns obekvämt att göra så.
-
-Ett bra knep är att skapa en anpassad länk som när man klickar på direkt öppnar upp rutan för att lämna en recension på profilen.
-
-Att be om en recension i ett sms eller mejl och skicka med länken gör det betydligt enklare för både dig och kunden.
-
-Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plakat på butiksdisken med en uppmaning om att lämna en recension, eller varför inte sätta den på papper som ändå ska skickas ut till kunderna.
-
-Där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.
-
-Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A's, att svara på recensioner och annat för att göra profilen så engagerande som möjligt för besökarna.
-
-Ju mer engagerande den är, desto längre kommer folk stanna på profilen och det skickar signaler till Google att din profil är värdefull för besökarna och du blir belönad med bättre ranking.
-
-Lycka till!
+Är det här bra eller dåliga nyheter för bilhandlare? För vissa kan det vara en alldeles utmärkt lösning & för andra inte alls beroende på en drös olika faktorer. För oss som jobbar med det kommer det förmodligen att betyda en lite rörigare framtid, men det är bara kul!
