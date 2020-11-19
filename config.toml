@@ -92,7 +92,7 @@ enable = false
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Tips hur du som företagare kan få fler kunder från nätet."
+title = "Enkla tips hur du som företagare kan få fler kunder från nätet."
 image = "images/banner/illustration.svg"
 
 
