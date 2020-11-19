@@ -18,12 +18,6 @@ Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa f
 
 Det jobbiga är att fråga sina kunder om en recension, det kan kännas påträngande och kanske t.om. pinsamt.
 
-"Kan du lämna en recension på Google för mig?"  
-"Hm.. okej, visst"  
-"Okej bra, gå in på din dator eller mobil och sök på vårat företag och leta reda på det i listan bland företag och sedan klickar du på.." **Sluta, det är redan för långt och chansen att du faktiskt får en recension är liten.**
-
-Man kan ju faktiskt också länka till sin profil **och det är en betydligt enklare väg att gå,** men om du någonsin har försökt länka din GMB profil till någon så vet du att det blir en väldigt lång och konstig länk som varken ser seriös ut eller är något som folk vågar klicka på.
-
 Men det finns en lösning. <mark>Vi ska skapa ett s.k "GMB Short Name".</mark>
 
 **Så här gör du:**  
