@@ -71,7 +71,9 @@ Att be om en recension i ett sms eller mejl och skicka med länken gör det bety
 
 Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plakat på butiksdisken med en uppmaning om att lämna en recension, eller varför inte sätta den på papper som ändå ska skickas ut till kunderna.<br>
 
-#### **Så, är har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
+#### **Så, där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
+
+<br>
 
 > Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, att svara på recensioner och annat för att göra profilen så engagerande som möjligt för besökarna.
 
