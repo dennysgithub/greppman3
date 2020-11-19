@@ -31,9 +31,13 @@ Har du inte verifierat din profil än så kan du enkelt göra det genom att bes�
 
 Företagsnamnet kan ha en stor påverkan på din plats i Google Maps listan, vilket är lite olyckligt.
 
-Du har kanske ingen större lust att ändra ditt företagsnamn eller ens möjlighet att göra så men vad du kan göra är att titta på dina konkurrenter som drar fördel av detta genom att lägga till s.k ”sökord” i sina företagsnamn och föreslå en ändring eftersom det strider mot Googles riktlinjer.
+Du har kanske ingen större lust att ändra ditt företagsnamn eller ens möjlighet att göra så men vad du kan göra är att titta på dina konkurrenter som drar fördel av detta genom att lägga till s.k ”sökord” i sina företagsnamn och föreslå en ändring eftersom det strider mot Googles riktlinjer. 
 
-Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället.
+Här ser du t.ex. ett företag som skapat en profil som heter "Rörmokarn' i Göteborg" för att kunna dyka upp högt för just de sökorden. När du sedan klickar på deras hemsida så kommer du till "Partille VVS & Entreprenad"
+
+![](/images/foretagsnamn-gmb.gif)
+
+Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google.
 
 ## **Kategorier.**
 
