@@ -35,9 +35,9 @@ Har du inte verifierat din profil än så kan du enkelt göra det genom att bes�
 
 Länk nr2: [https://support.google.com/business/answer/7107242?hl=sv](https://support.google.com/business/workflow/9289460 "https://support.google.com/business/workflow/9289460")
 
-**Faktor nummer två:**
+  <br></br><br></br><a name="verifiera"></a><br></br>
 
-**Företagsnamnet.**
+## **Företagsnamnet.**
 
 Företagsnamnet kan ha en stor påverkan på din plats i Google Maps listan, vilket är lite olyckligt.
 
