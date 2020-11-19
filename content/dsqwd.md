@@ -13,7 +13,7 @@ type = "post"
 
 ![](/images/snack-pack-01.png)
 
-Det finns många olika funktioner i Google My Business men endast fem har enligt tester visat sig ha ett direkt inflytande på rankingen. </br><a name="verifiera"></a><br>
+Det finns många olika funktioner i Google My Business men fem av dom har enligt tester visat sig ha ett direkt inflytande på rankingen. Här kommer dem! </br><a name="verifiera"></a><br>
 
 ## **Verifiera din Google My Business profil.**
 
