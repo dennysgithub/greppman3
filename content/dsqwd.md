@@ -65,7 +65,7 @@ Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plak
 
 Där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.
 
-Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, att svara på recensioner och annat för att göra profilen så engagerande som möjligt för besökarna.
+> Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, att svara på recensioner och annat för att göra profilen så engagerande som möjligt för besökarna.
 
 Ju mer engagerande den är, desto längre kommer folk stanna på profilen och det skickar signaler till Google att din profil är värdefull för besökarna och du blir belönad med bättre ranking.
 
