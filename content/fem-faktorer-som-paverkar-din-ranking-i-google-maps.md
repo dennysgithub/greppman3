@@ -28,7 +28,7 @@ När du är färdig kommer Google att skicka ett brev till dig med en PIN-kod so
 
 ## **2. Val av företagsnamn.**
 
-Företagsnamnet kan ha en stor påverkan på din plats i Google Maps listan, vilket är lite olyckligt.
+Företagsnamnet kan ha en stor påverkan på din ranking i Google Maps, vilket är lite olyckligt.
 
 Du har kanske ingen större lust att ändra ditt företagsnamn eller ens möjlighet att göra så men vad du kan göra är att titta på dina konkurrenter som drar fördel av detta genom att lägga till s.k ”sökord” i sina företagsnamn och föreslå en ändring eftersom det strider mot Googles riktlinjer.
 
