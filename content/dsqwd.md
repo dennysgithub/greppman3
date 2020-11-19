@@ -13,7 +13,7 @@ Snabblänkar:
 
 <ol>
 
-<li><a href="#steg1">Verifiera din Google My Business profil.</a></li>
+<li><a href="#verifiera">Verifiera din Google My Business profil.</a></li>
 
 <li><a href="#steg2">Se till så att din NAP är korrekt.</a></li>
 
@@ -27,9 +27,9 @@ Det finns många olika funktioner i Google My Business men endast fem har enligt
 
 **Faktor nummer ett:**
 
-<h2><a id="verifiera"></a>**Verifiera din Google My Business profil.**</h2>
+## **Verifiera din Google My Business profil.**
 
-**Verifiera din Google My Business profil.**
+<a name="steg1"></a>
 
 Att verifiera din Google My Business profil är viktigt, inte bara för bättre ranking men också av säkerhetsskäl. När din profil inte är verifierad så kan vem som helst ändra informationen eller t.om. ta över ägarskapet för den.
 
