@@ -9,17 +9,7 @@ title = "Fem faktorer som påverkar din Google Maps ranking"
 type = "post"
 
 +++
-Snabblänkar:<ol>
-
-<li><a href="#verifiera">Verifiera din Google My Business profil.</a></li>
-
-<li><a href="#steg2">Se till så att din NAP är korrekt.</a></li>
-
-<li><a href="#steg3"> Välj rätt företagskategori & underkategori(er).</a></li>
-
-<li><a href="#steg4">Utnyttja Google Inlägg till fullo!</a></li></br>
-
-Är du en lokal företagare så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles ”3-pack”.
+**Är du en lokal företagare** så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles ”3-pack”.
 
 Det finns många olika funktioner i Google My Business men endast fem har enligt tester visat sig ha ett direkt inflytande på rankingen. </br><a name="verifiera"></a><br>
 
@@ -35,7 +25,7 @@ Har du inte verifierat din profil än så kan du enkelt göra det genom att bes�
 
 Länk nr2: [https://support.google.com/business/answer/7107242?hl=sv](https://support.google.com/business/workflow/9289460 "https://support.google.com/business/workflow/9289460")
 
-  <br></br><br></br><a name="verifiera"></a><br></br>
+  
 
 ## **Företagsnamnet.**
 
@@ -45,9 +35,7 @@ Du har kanske ingen större lust att ändra ditt företagsnamn eller ens möjlig
 
 Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället.
 
-**Faktor nummer tre:**
-
-**Kategorier.**
+## **Kategorier.**
 
 Välj den kategorin som bäst beskriver er verksamhet. Men ta även en titt på konkurrenterna som rankar överst i Google Maps listan, vad har de valt för kategori? Oftast kan man se ett tydligt mönster där.
 
@@ -57,17 +45,13 @@ Om jag söker på ”brottmålsadvokat göteborg” så ser jag att de tre som s
 
 Nu kanske det är så att företaget utanför 3-packet inte bara sysslar med brottmål och därför har de valt ”Advokatbyrå” som sin kategori, men om det inte är så, så hade en ändring av kategori gjort nytta här.
 
-**Faktor nummer fyra:**
-
-**Hemsidan.**
+## **Hemsidan.**
 
 Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra till din ranking i Google Maps så se till så din hemsida är ordentligt sökmotoroptimerad.
 
 Har du en verksamhet som finns på olika platser i landet och således har flera olika Google My Business profiler? Då rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.
 
-**Faktor nummer fem:**
-
-**Recensioner.**
+## **Recensioner.**
 
 Föga förvånande är recensioner väldigt kraftfulla när det gäller ens ranking så se till att samla på er så många 5-stjärniga recensioner som möjligt.
 
@@ -85,4 +69,4 @@ Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, 
 
 Ju mer engagerande den är, desto längre kommer folk stanna på profilen och det skickar signaler till Google att din profil är värdefull för besökarna och du blir belönad med bättre ranking.
 
-Lycka till!
+**Lycka till!**
