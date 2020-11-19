@@ -57,6 +57,8 @@ Har du en verksamhet som finns på olika platser i landet och således har flera
 
 Föga förvånande är recensioner väldigt kraftfulla när det gäller ens ranking så se till att samla på er så många 5-stjärniga recensioner som möjligt.
 
+![](/images/gmb-recensioner.png)
+
 Ofta är detta något företagare förbiser, att aktivt be sina kunder lämna en recension, kanske för att de inte förstår vikten av dem eller för att det känns obekvämt att göra så.
 
 Ett bra knep är att skapa en anpassad länk som när man klickar på direkt öppnar upp rutan för att lämna en recension på profilen.
