@@ -34,7 +34,7 @@ Här ser du t.ex. ett företag som skapat en profil som heter "Rörmokarn' i Gö
 
 ![](/images/foretagsnamn-gmb.gif)
 
-Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google. \\
+Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google.
 
 ## **3. Val av kategori.**
 
