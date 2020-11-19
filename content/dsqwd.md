@@ -9,7 +9,12 @@ title = "Fem faktorer som påverkar din Google Maps ranking"
 type = "post"
 
 +++
-<ol><a href="#verifiera">**1. Verifiera din Google My Business profil.**</a>
+<ol>
+  <li><a href="#verifiera">**Verifiera din Google My Business profil.**</a></li>
+
+
+
+</ol>
 
 
 Är du en lokal företagare så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles ”3-pack”.
