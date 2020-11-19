@@ -11,7 +11,15 @@ type = "post"
 +++
 Snabblänkar: 
 
-<a href="#verifiera">**1. Verifiera din Google My Business profil.**</a>
+<ol>
+
+<li><a href="#steg1">Verifiera din Google My Busines s profil.</a></li>
+
+<li><a href="#steg2">Se till så att din NAP är korrekt.</a></li>
+
+<li><a href="#steg3"> Välj rätt företagskategori & underkategori(er).</a></li>
+
+<li><a href="#steg4">Utnyttja Google Inlägg till fullo!</a></li>
 
 Är du en lokal företagare så är en bra plats i Google Maps listan enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles ”3-pack”.
 
