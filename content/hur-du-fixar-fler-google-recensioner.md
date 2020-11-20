@@ -16,9 +16,9 @@ Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa f
 
 Det jobbiga är att fråga sina kunder om en recension, det kan kännas påträngande och kanske t.om. pinsamt.
 
-Men det finns en lösning. <mark>Vi ska skapa ett s.k "GMB Short Name".</mark>
+Men det finns en lösning. <mark>Vi ska skapa ett s.k GMB Short Name.</mark>
 
-*Så här gör du:*
+_Så här gör du:_
 
 OBS! Om din Google My Business profil inte är verifierad ännu så kommer du inte att ha tillgång till den här funktionen.
 
@@ -38,7 +38,7 @@ Välj namn och klicka på tillämpa. Använd ert företagsnamn, en förkortning 
 
 ***
 
-*Bra jobbat*, du har nu skapat en kort-länk som går direkt till din Google My Business profil.
+_Bra jobbat_, du har nu skapat en kort-länk som går direkt till din Google My Business profil.
 
 <mark>Men om du tänker dela med dig av länken i syftet att skaffa recensioner så finns det ett steg till vi behöver ta.</mark>
 
@@ -52,7 +52,7 @@ Och där har du din länk.
 
 Kopiera den och spara. Som du ser kan du även dela den via sociala medier direkt om du skulle vilja.
 
-*När någon använder länken så kommer de till din Google My Business profil och rutan för att lämna en recension poppar upp direkt.* Enklare blir det inte för en kund att lämna en recension. Testa länken själv!
+_När någon använder länken så kommer de till din Google My Business profil och rutan för att lämna en recension poppar upp direkt._ Enklare blir det inte för en kund att lämna en recension. Testa länken själv!
 
 ### Hur ska vi implementera det här nu då?
 
@@ -68,7 +68,7 @@ Använd samma QR-kod och designa en snygg skyltsom du kan ha i receptionen i dit
 
 ***
 
-*OBS!* Byt INTE ut rabatter eller dylikt mot recensioner. Detta är strikt förbjudet enligt Google och du riskerar att inte bara förlora alla dina recensioner om de kommer på dig utan även hela profilen.
+_OBS!_ Byt INTE ut rabatter eller dylikt mot recensioner. Detta är strikt förbjudet enligt Google och du riskerar att inte bara förlora alla dina recensioner om de kommer på dig utan även hela profilen.
 
 ***
 
