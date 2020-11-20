@@ -10,7 +10,7 @@ type = "post"
 
 +++
 
-Vad är NAP för något kanske du undrar?
+### Vad är NAP för något kanske du undrar?
 
 NAP står för tre saker:
 
@@ -22,7 +22,7 @@ NAP står för tre saker:
 
 **NAP är en väldigt viktig faktor** för lokal sökmotoroptimering och påverkar vad Google och andra sökmotorer visar för resultat.
 
-Dina NAP uppgifter benämns ofta som "citations". **En citation är alltså dina företagsuppgifter som du kan lägga till på en hemsida så som Eniro bland annat.**
+Dina NAP uppgifter benämns ofta som "citations". En citation är dina företagsuppgifter som du kan lägga till på en hemsida så som Eniro bland annat.
 
 ## Varför är detta så viktigt då?
 
