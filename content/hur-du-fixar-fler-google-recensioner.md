@@ -84,7 +84,7 @@ Allt du behöver göra är att svara på en positiv recension med ett simpelt **
 
 **<span style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</span>**
 
-<span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom [twitter](https://twitter.com/GoogleMyBiz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  eller via deras [Facebook ](https://www.facebook.com/GoogleMyBusiness/)sida.
+<span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom [Twitter](https://twitter.com/GoogleMyBiz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  eller via deras [Facebook ](https://www.facebook.com/GoogleMyBusiness/)sida.
 
 Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De brukar svara inom en vecka och det kan dröja längre än så innan något händer, ibland kan det tyvärr vara svårt att få något att hända alls så man kan behöva jobba fram och tillbaka med Google ett tag.
 
