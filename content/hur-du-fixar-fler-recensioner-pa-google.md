@@ -83,10 +83,3 @@ Allt du behöver göra är att svara på en positiv recension med ett simpelt **
 <span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="[https://twitter.com/googlemybiz?lang=sv](https://twitter.com/googlemybiz?lang=sv "https://twitter.com/googlemybiz?lang=sv")" target="_blank">@GoogleMyBiz</a> eller via deras <a href="[https://www.facebook.com/GoogleMyBusiness/Facebook](https://www.facebook.com/GoogleMyBusiness/Facebook "https://www.facebook.com/GoogleMyBusiness/Facebook")" target="_blank">Facebook sida.</a></span>
 
 Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De brukar svara inom en vecka och det kan dröja längre än så innan något händer, ibland kan det tyvärr vara svårt att få något att hända alls så man kan behöva jobba fram och tillbaka med Google ett tag.
-
-**Ett bra knep** är att skapa en anpassad länk som när man klickar på direkt öppnar upp rutan för att lämna en recension på profilen.
-
-Att be om en recension i ett sms eller mejl och skicka med länken gör det betydligt enklare för både dig och kunden.
-
-Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plakat på butiksdisken med en uppmaning om att lämna en recension, eller varför inte sätta den på papper som ändå ska skickas ut till kunderna.<br><br>  
-<span style="font-size:20px;">Har du någonsin varit avundsjuk på en konkurrent som har massor av 5-stjärniga recensioner medan du själv sitter på ett ynka fåtal? Då är det dags att ändra på det!</span>
