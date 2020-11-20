@@ -52,7 +52,7 @@ Och där har du din länk.
 
 Kopiera den och spara. Som du ser kan du även dela den via sociala medier direkt om du skulle vilja.
 
-_När någon använder länken så kommer de till din Google My Business profil och rutan för att lämna en recension poppar upp direkt._ Enklare blir det inte för en kund att lämna en recension. Testa länken själv!
+**När någon använder länken så kommer de till din Google My Business profil och rutan för att lämna en recension poppar upp direkt.** Enklare blir det inte för en kund att lämna en recension. Testa länken själv!
 
 ### Hur ska vi implementera det här nu då?
 
