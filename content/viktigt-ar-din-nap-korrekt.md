@@ -38,9 +38,7 @@ Om din NAP är konsistent så signalerar det till Google att informationen är k
 
 Nio av tio konsumenter säger att de kollar upp ett företags adress på nätet innan deras första besök. Om de råkar stöta på gammal / felaktig information så kan det innebära att de spenderar tid resandes bara för att dyka upp på fel plats. Frustrerande för kunden och kanske leder det även till en negativ recension för att inte tala om en förlorad kund du inte visste att du förlorade.
 
-Nio av tio konsumenter säger att de kollar upp ett företags adress på nätet innan deras första besök. Om de hittar två olika adresser så kan det leda till att de helt enkelt struntar i besöket.
-
-### 
+#### Hur konsistent behöver du vara? 
 
 **Det viktigaste just nu är att du måste se till så att dina citations ser exakt likadana ut överallt på nätet.**
 
