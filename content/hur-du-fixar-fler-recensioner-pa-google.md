@@ -83,3 +83,5 @@ Allt du behöver göra är att svara på en positiv recension med ett simpelt **
 <span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="[https://twitter.com/googlemybiz?lang=sv](https://twitter.com/googlemybiz?lang=sv "https://twitter.com/googlemybiz?lang=sv")" target="_blank">@GoogleMyBiz</a> eller via deras <a href="[https://www.facebook.com/GoogleMyBusiness/Facebook](https://www.facebook.com/GoogleMyBusiness/Facebook "https://www.facebook.com/GoogleMyBusiness/Facebook")" target="_blank">Facebook sida.</a></span>
 
 Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De brukar svara inom en vecka och det kan dröja längre än så innan något händer, ibland kan det tyvärr vara svårt att få något att hända alls så man kan behöva jobba fram och tillbaka med Google ett tag.
+
+### **Lycka till!**
