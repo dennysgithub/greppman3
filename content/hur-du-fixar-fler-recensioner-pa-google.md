@@ -10,7 +10,9 @@ type = "post"
 
 +++
 
-#### Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa företaget väljer ofta det med flest och bäst recensioner och även Google älskar företag med många bra recensioner och ger de bättre ranking tack vare dem.
+##### Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa företaget väljer ofta det med flest och bäst recensioner och även Google älskar företag med många bra recensioner och ger de bättre ranking tack vare dem.
+
+![](/images/gmb-recensioner.png)
 
 Det jobbiga är att fråga sina kunder om en recension, det kan kännas påträngande och kanske t.om. pinsamt.
 
