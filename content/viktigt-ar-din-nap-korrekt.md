@@ -24,7 +24,7 @@ NAP står för tre saker:
 
 Dina NAP uppgifter benämns ofta som "citations". **En citation är alltså dina företagsuppgifter som du kan lägga till på en hemsida så som Eniro bland annat.**
 
-Mer än så går jag inte in på det här, men det är möjligt att jag skriver en enskild guide om just citations i framtiden. Det jag kan säga är att ju fler citations av hög kvalité du har, desto bättre kommer du ranka i Google.
+## Varför är detta så viktigt då?
 
 **Det viktigaste just nu är att du måste se till så att dina citations ser exakt likadana ut överallt på nätet.**
 
