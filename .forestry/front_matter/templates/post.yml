@@ -25,6 +25,5 @@ fields:
   label: type
   default: post
 pages:
-- content/Hur du fixar fler Google recensioner.md
 - content/fem-faktorer-som-paverkar-din-ranking-i-google-maps.md
 - content/viktigt-ar-din-nap-korrekt.md
