@@ -58,7 +58,7 @@ Igen, samma företag, men Google kommer se det som två olika citations.
 
 Så var noga när du går igenom dina citations, och se till så du inte glömmer någon sida där du lagt till din företagsinformation.
 
-Jag rekommenderar att du bestämmer dig för hur din citation ska skrivas, sparar det i ett dokument och kopierar och klistrar därifrån när du gör ändringar i dina citations.
+Jag rekommenderar att du bestämmer dig för hur din citation ska skrivas, sparar den i ett dokument och kopierar och klistrar därifrån när du gör ändringar i dina citations.
 
 ####  Var finns dina citations?
 
