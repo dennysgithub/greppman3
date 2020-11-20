@@ -60,11 +60,15 @@ Har du en verksamhet som finns på olika platser i landet och således har flera
 
 ## **5. Recensioner, ju fler desto bättre.**
 
-Föga förvånande är recensioner väldigt kraftfulla när det gäller ens ranking så se till att samla på er så många 5-stjärniga recensioner som möjligt.
+Föga förvånande så kan recensioner vara ett av de mest effektiva sätten att lyfta din ranking och få telefonen att ringa!
 
 ![](/images/gmb-recensioner.png)
 
-Ofta är detta något företagare förbiser, att aktivt be sina kunder lämna en recension, kanske för att de inte förstår vikten av dem eller för att det känns obekvämt att göra så. Men ett gäng nya recensioner kan få profilen att skjuta i höjden inom loppet av bara några dagar och vipps så ringer det in fler kunder än någonsin tidigare per dag, så det är värt besväret.
+Många företag investerar tid & pengar i annonser och annan marknadsföring men förbiser helt betydelsen av recensioner. 
+
+Men du har säkert själv kollat in recensionerna innan du bestämt dig för en ny frisör eller när du behövde en låssmed, eller hur? Så du vet hur inflytelserika dom är!
+
+Så det är väldigt viktigt att uppmuntra dina kunder till att lämna en recension. Jag har skrivit ett inlägg om hur du kan göra för att generera fler recensioner som du kan titta på här.
 
 Ta en titt här där jag har skrivit lite tips för hur du kan generera & hantera recensioner för Google Maps.
 
