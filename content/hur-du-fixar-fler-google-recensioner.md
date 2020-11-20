@@ -67,7 +67,7 @@ Använd samma QR-kod och designa en snygg skyltsom du kan ha i receptionen i dit
 
 ***
 
-**<mark>OBS!</mark>** Byt **INTE** ut rabatter eller dylikt mot recensioner. <mark>**Detta är strikt förbjudet enligt Google**</mark> och du riskerar att inte bara förlora alla dina recensioner om de kommer på dig utan även hela profilen.
+**OBS!** Byt **INTE** ut rabatter eller dylikt mot recensioner. **Detta är strikt förbjudet enligt Google** och du riskerar att inte bara förlora alla dina recensioner om de kommer på dig utan även hela profilen.
 
 ***
 
