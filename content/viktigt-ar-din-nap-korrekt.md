@@ -32,7 +32,7 @@ Google & andra sökmotorer använder citations för att samla så mycket informa
 
 Om din NAP är konsistent så signalerar det till Google att informationen är korrekt, vilket i sin tur innebär att Google känner sig bekväma med att visa upp det här för alla andra. 
 
-Är din NAP inte konsistent så skickar det en varning till Google och du förlorar trovärdighet i Googles ögon.
+Är din NAP inte konsistent så skickar det en varning till Google och du förlorar trovärdighet i deras ögon.
 
 Sökmotorer så som Google använder ditt företags NAP-uppgifter inom sina algoritmer för att visa det bästa möjliga resultatet för användarna när de söker på något. 
 
