@@ -34,29 +34,9 @@ Om din NAP är konsistent så signalerar det till Google att informationen är k
 
 Är din NAP inte konsistent så skickar det en varning till Google och du förlorar trovärdighet i deras ögon.
 
-Sökmotorer så som Google använder ditt företags NAP-uppgifter inom sina algoritmer för att visa det bästa möjliga resultatet för användarna när de söker på något. 
+##### Inkonsistenta NAP-uppgifter kan betyda att du förlorar kunder som du inte visste att du hade!
 
-Om dina NAP-uppgifter inte är konsistenta så försvagas din validering. 
-
-NAP konsistens inte bara viktigt för Googles algoritmer; det kan också ha ett direkt inflytande på 
-
-NAP bör vara konsistent för det är en rankingfaktor. Det är också viktigt så att inte kunder dyker upp på fel plats.
-
-Att bygga citations är ofta ett av de första stegen du gör vid en sökmotoroptimering. Du vill ha kvalitativa citations från auktoritära hemsidor i din bransch eller t.ex. sidor som Eniro. Ju fler desto bättre. 
-
-Tips; Använd sökmotorverktyg som EXEMPEL och kolla vad dina konkurrenter har för citations och försök skaffa samma!
-
-NAP är med i topp 5 över viktiga rankingfaktorer. Konsistenta sådana stärker din hemsidas ranking och din Google My Business profil. 
-
-Google & andra sökmotorer använder citations för att samla så mycket information som möjligt om ditt företag. Det betyder att ju fler bra citations Google kan hitta om ditt företag desto enklare blir det för sökmotorn att förstå informationen.
-
-Om din NAP är konsistent så signalerar det Google att informationen är korrekt, vilket i sin tur innebär att Google känner sig bekväma med att visa upp det här för alla andra. 
-
-Är din NAP inte konsistent så skickar det en varning till Google och du förlorar trovärdighet i Googles ögon.
-
-Det är också enormt viktigt för att kunna bygga trovärdighet hos dina kunder, eller snarare för att inte totalt förstöra den. När kunder spenderar tid resandes för att dyka upp på fel plats kan bli kostsamt i längden.
-
-Inkonsistenta NAP-uppgifter kan betyda att du förlorar kunder som du inte visste att du hade!
+Nio av tio konsumenter säger att de kollar upp ett företags adress på nätet innan deras första besök. Om de råkar stöta på gammal / felaktig information så kan det innebära att de spenderar tid resandes bara för att dyka upp på fel plats. Frustrerande för kunden och kanske leder det även till en negativ recension för att inte tala om en förlorad kund du inte visste att du förlorade.
 
 Nio av tio konsumenter säger att de kollar upp ett företags adress på nätet innan deras första besök. Om de hittar två olika adresser så kan det leda till att de helt enkelt struntar i besöket.
 
