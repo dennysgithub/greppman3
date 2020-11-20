@@ -72,7 +72,7 @@ _OBS! Byt INTE ut rabatter eller dylikt mot recensioner. Detta är strikt förbj
 
 ***
 
-Bra, nu har vi löst hur du ska generera recensionerna. Men en väldigt värdefull sak som många företagare helt struntar i är att <span style="font-size:22px;">faktiskt svara på recensionerna.</span>
+Bra, nu har vi löst hur du ska generera recensionerna. Men en väldigt värdefull sak som många företagare helt struntar i är att faktiskt **svara på recensionerna**.
 
 Det ser inte bara bra ut för användare som kikar på din profil utan Google älskar det också!
 
