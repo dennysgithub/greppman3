@@ -14,9 +14,11 @@ Vad är NAP för något kanske du undrar?
 
 NAP står för tre saker:
 
-* **Name**
-* **Address**
-* **Phone Number**
+**Name**
+
+**Address**
+
+**Phone Number**
 
 **NAP är en väldigt viktig faktor** för lokal sökmotoroptimering och påverkar vad Google och andra sökmotorer visar för resultat.
 
