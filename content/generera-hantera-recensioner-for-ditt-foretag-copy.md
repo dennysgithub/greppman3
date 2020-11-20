@@ -5,7 +5,7 @@ date = 2020-11-13T23:00:00Z
 description = "Recensioner är allt i Google! Låt dig inte slås av konkurrenterna och börja generera recensioner idag."
 draft = true
 image = "/images/generera-recensioner-thumbnail.png"
-title = "Generera & hantera recensioner för ditt företag-(copy)"
+title = "Hur du fixar fler Google recensioner"
 type = "post"
 
 +++
