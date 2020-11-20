@@ -22,7 +22,7 @@ Men det finns en lösning. <mark>Vi ska skapa ett s.k "GMB Short Name".</mark>
 **Så här gör du:**  
 _OBS! Om din Google My Business profil inte är verifierad ännu så kommer du inte att ha tillgång till den här funktionen._
 
-<a href="[http://example.com/](http://example.com/ "http://example.com/")" target="_blank">Hello, world!</a>
+Logga in i ditt [Google My Business konto.](https://www.google.com/intl/svse/business/)
 
 Öppna platsen du vill skapa ett GMB short name för. (om ditt företag har flera platser)
 
