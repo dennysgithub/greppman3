@@ -54,7 +54,7 @@ Adresserna ovan leder givetvis till samma plats, men Google kommer se det som tv
 
 <mark>Tommys Takmåleri</mark>
 
-Igen, samma företag, men Google kommer se det som två olika = **sämre ranking** 
+Igen, samma företag, men Google kommer se det som två olika citations.
 
 Så var noga när du går igenom dina citations, och se till så du inte glömmer någon sida där du lagt till din företagsinformation.
 
