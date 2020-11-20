@@ -57,9 +57,11 @@ Kopiera den och spara. Som du ser kan du även dela den via sociala medier direk
 
 Det finns många vägar att gå men jag ska nämna några stycken.
 
-* Börja med att skapa en plats på din hemsida där du uppmanar kunder att lämna en recension/berätta vad de tyckte och inkludera länken, gör samma sak på dina sociala medier, se till så du uppmanar folk att lämna recensioner på alla plattformar.
-* Skapa en QR-kod för länken och ha med den på alla slags lämpliga papper du skickar ut till kunder, fakturor, etc. Självklart med en uppmaning om att lämna recension så folk förstår vad det är för något.
-* Använd samma QR-kod och designa en snygg skylt/plakat som du kan ha i receptionen i ditt hotell, ovanpå kassan i frisörsalongen, etc. **Var kreativ!**
+Börja med att skapa en plats på din hemsida där du uppmanar kunder att lämna en recension/berätta vad de tyckte och inkludera länken, gör samma sak på dina sociala medier, se till så du uppmanar folk att lämna recensioner på alla plattformar.
+
+Skapa en QR-kod för länken och ha med den på alla slags lämpliga papper du skickar ut till kunder, fakturor, etc. Självklart med en uppmaning om att lämna recension så folk förstår vad det är för något.
+
+Använd samma QR-kod och designa en snygg skylt/plakat som du kan ha i receptionen i ditt hotell, ovanpå kassan i frisörsalongen, etc. **Var kreativ!**
 
 ***
 
