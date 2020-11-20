@@ -1,23 +1,13 @@
 +++
-
 author = "DAN"
-
 categories = []
-
 date = 2020-11-12T23:00:00Z
-
 description = "Recensioner är allt i Google! Låt dig inte slås av konkurrenterna och börja generera recensioner idag."
-
-draft = true
-
 image = "/images/generera-recensioner-thumbnail.png"
-
 title = "Hur du fixar fler Google recensioner"
-
 type = "post"
 
 +++
-
 ##### Recensioner är allt i Google! Låt dig inte slås av konkurrenterna och börja generera recensioner idag.
 
 Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa företaget väljer ofta det med flest och bäst recensioner och även Google älskar företag med många bra recensioner och ger de bättre ranking tack vare dem.
