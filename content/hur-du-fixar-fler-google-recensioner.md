@@ -64,11 +64,11 @@ Skapa en QR-kod för länken och ha med den på alla slags lämpliga papper du s
 
 Använd samma QR-kod och designa en snygg skyltsom du kan ha i receptionen i ditt hotell, ovanpå kassan i frisörsalongen, etc. Var kreativ!
 
-<mark>Det viktiga är att du är proaktiv och faktiskt gör något åt saken, då kommer recensionerna att ramla in som brev på posten.</mark>
+**Det viktiga är att du är proaktiv och faktiskt gör något åt saken, då kommer recensionerna att ramla in som brev på posten.**
 
 ***
 
-_OBS!_ Byt INTE ut rabatter eller dylikt mot recensioner. Detta är strikt förbjudet enligt Google och du riskerar att inte bara förlora alla dina recensioner om de kommer på dig utan även hela profilen.
+_OBS! Byt INTE ut rabatter eller dylikt mot recensioner. Detta är strikt förbjudet enligt Google och du riskerar att inte bara förlora alla dina recensioner om de kommer på dig utan även hela profilen._
 
 ***
 
