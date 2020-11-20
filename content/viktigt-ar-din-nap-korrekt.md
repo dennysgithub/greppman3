@@ -30,7 +30,7 @@ Ditt företags NAP-uppgifter finns överallt på internet men om de inte ser **e
 
 Sökmotorer så som Google använder ditt företags NAP-uppgifter inom sina algoritmer för att visa det bästa möjliga resultatet för användarna när de söker på något. 
 
-Om dina NAP-uppgifter inte är konsekventa så försvagas din validering. 
+Om dina NAP-uppgifter inte är konsistenta så försvagas din validering. 
 
 NAP konsistens inte bara viktigt för Googles algoritmer; det kan också ha ett direkt inflytande på 
 
