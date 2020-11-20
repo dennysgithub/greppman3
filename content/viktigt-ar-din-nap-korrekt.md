@@ -58,7 +58,7 @@ Igen, samma företag, men Google kommer se det som två olika = **sämre ranking
 
 Så var noga när du går igenom dina citations, och se till så du inte glömmer någon sida där du lagt till din företagsinformation.
 
-Jag rekommenderar att du bestämmer dig för hur din citation ska skrivas, sparar det i en fil och kopierar och klistrar från den filen när du gör ändringar i dina citations.
+Jag rekommenderar att du bestämmer dig för hur din citation ska skrivas, sparar det i ett dokument och kopierar och klistrar därifrån när du gör ändringar i dina citations.
 
  Detta gäller allt från din hemsida, din Google My Business profil, Eniro, sociala medier, etc, det ska se identiskt ut på samtliga plattformar.
 
