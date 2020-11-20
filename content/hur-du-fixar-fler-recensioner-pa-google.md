@@ -26,6 +26,8 @@ _OBS! Om din Google My Business profil inte är verifierad ännu så kommer du i
 * På startsidan hittar du en ruta som heter "Ditt företag finns på Google". **Klicka på "dela din företagsprofil".** 
 
   ![](/images/dela-foretagsprofil.png)
+
+  <br>
 * **Klicka på redigerings-ikonen.**
 * **Välj ditt namn och klicka på tillämpa. Använd ert företagsnamn, en förkortning av det eller kanske något som kunder brukar kalla er. Håll det kort och simpelt.**
 
