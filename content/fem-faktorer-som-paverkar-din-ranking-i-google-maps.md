@@ -34,9 +34,9 @@ Här ser du t.ex. ett företag som skapat en profil som heter "Rörmokarn' i Gö
 
 ![](/images/foretagsnamn-gmb.gif)
 
-Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google  
+Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då du riskerar att bli bannlyst. Ta en titt på dina konkurrenter och anmäl dem istället till Google
 
- </br>
+</br>
 
 </br>
 
@@ -64,19 +64,15 @@ Föga förvånande är recensioner väldigt kraftfulla när det gäller ens rank
 
 ![](/images/gmb-recensioner.png)
 
-Ofta är detta något företagare förbiser, att aktivt be sina kunder lämna en recension, kanske för att de inte förstår vikten av dem eller för att det känns obekvämt att göra så.
+Ofta är detta något företagare förbiser, att aktivt be sina kunder lämna en recension, kanske för att de inte förstår vikten av dem eller för att det känns obekvämt att göra så. Men ett gäng nya recensioner kan få profilen att skjuta i höjden inom loppet av bara några dagar och vipps så ringer det in fler kunder än någonsin tidigare per dag, så det är värt besväret. 
 
-**Ett bra knep** är att skapa en anpassad länk som när man klickar på direkt öppnar upp rutan för att lämna en recension på profilen.
-
-Att be om en recension i ett sms eller mejl och skicka med länken gör det betydligt enklare för både dig och kunden.
-
-Du hade även kunnat göra om länken till en QR-kod och sätta den på ett plakat på butiksdisken med en uppmaning om att lämna en recension, eller varför inte sätta den på papper som ändå ska skickas ut till kunderna.<br><br>
+Ta en titt här där jag har skrivit lite tips för hur du kan generera & hantera recensioner för Google Maps.
 
 #### **Så, där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
 
 <br>
 
-> Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, att svara på recensioner och annat för att göra profilen så engagerande som möjligt för besökarna.
+> Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, lägga till särskilda öppettider och annat för att göra profilen så engagerande som möjligt för besökarna.
 
 Ju mer engagerande den är, desto längre kommer folk stanna på profilen och det skickar signaler till Google att din profil är värdefull för besökarna och du blir belönad med bättre ranking.<br>
 
