@@ -30,7 +30,7 @@ Ditt företags NAP-uppgifter finns överallt på internet men om de inte ser **e
 
 Google & andra sökmotorer använder citations för att samla så mycket information som möjligt om ditt företag. Det betyder att ju fler bra citations Google kan hitta om ditt företag desto enklare blir det för sökmotorn att förstå informationen.
 
-Om din NAP är konsistent så signalerar det till Google att informationen är korrekt, vilket i sin tur innebär att Google känner sig bekväma med att visa upp det här för alla andra. 
+Om din NAP är konsistent så signalerar det till Google att informationen är korrekt, vilket i sin tur innebär att Google känner sig bekväma med att visa dig för andra. 
 
 Är din NAP inte konsistent så skickar det en varning till Google och du förlorar trovärdighet i deras ögon.
 
