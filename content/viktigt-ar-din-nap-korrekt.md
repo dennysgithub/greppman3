@@ -5,7 +5,7 @@ date = ""
 description = ""
 draft = true
 image = "/images/nap-thumbnail-01.png"
-title = "Viktigt! Är din NAP korrekt? "
+title = "Viktig rankingfaktor: Din NAP!"
 type = "post"
 
 +++
