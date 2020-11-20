@@ -9,9 +9,6 @@ title = "Viktig rankingfaktor! Är din NAP korrekt?"
 type = "post"
 
 +++
-## **Steg 2: Se till så att din NAP är korrekt!**
-
-<a href="#steg3">(hoppa till steg 3 om du inte är ett lokalt företag)</a>
 
 Vad är NAP för något kanske du undrar?
 
