@@ -27,7 +27,7 @@ Logga in i ditt <a href="[https://www.google.com/intl/sv_se/business/](https://w
 
 På startsidan hittar du en ruta som heter "Ditt företag finns på Google". **Klicka på "dela din företagsprofil".** <br>
 
-![](/images/redigera-namn.png)
+![](/images/dela-foretagsprofil.png)
 
 Klicka på redigerings-ikonen.
 
