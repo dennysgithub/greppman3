@@ -72,7 +72,7 @@ Ta en titt här där jag har skrivit lite tips för hur du kan generera & hanter
 
 <br>
 
-> Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, lägga till särskilda öppettider och annat för att göra profilen så engagerande som möjligt för besökarna.
+> Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, särskilda öppettider och annat för att göra profilen så engagerande som möjligt för besökarna.
 
 Ju mer engagerande den är, desto längre kommer folk stanna på profilen och det skickar signaler till Google att din profil är värdefull för besökarna och du blir belönad med bättre ranking.<br>
 
