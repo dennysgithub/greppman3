@@ -62,7 +62,7 @@ Börja med att skapa en plats på din hemsida där du uppmanar kunder att lämna
 
 Skapa en QR-kod för länken och ha med den på alla slags lämpliga papper du skickar ut till kunder. Självklart med en uppmaning om att lämna en recension så folk förstår vad det är för något.
 
-Använd samma QR-kod och designa en snygg skyltsom du kan ha i receptionen i ditt hotell, ovanpå kassan i frisörsalongen, etc. Var kreativ!
+Använd samma QR-kod och designa en snygg skylt som du kan ha i receptionen i ditt hotell, ovanpå kassan i frisörsalongen, etc. Var kreativ!
 
 **Det viktiga är att du är proaktiv och faktiskt gör något åt saken, då kommer recensionerna att ramla in som brev på posten.**
 
