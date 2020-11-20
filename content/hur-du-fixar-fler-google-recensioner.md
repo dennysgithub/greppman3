@@ -76,7 +76,7 @@ Bra, nu har vi löst hur du ska generera recensionerna. Men en väldigt värdefu
 
 Det ser inte bara bra ut för användare som kikar på din profil utan Google älskar det också!
 
-Allt du behöver göra är att svara på en positiv recension med ett simpelt "Tack så mycket \[namn\] för din fina recension!" Försök att inte svara identiskt på varje recension utan ge det en liten twist hela tiden så folk ser att du bryr dig.
+Allt du behöver göra är att svara på en positiv recension med ett simpelt **"Tack så mycket \[namn\] för din fina recension!"** Försök att inte svara identiskt på varje recension utan ge det en liten twist hela tiden så folk ser att du bryr dig.
 
 **<span style="font-size:22px;">Negativa recensioner då?</span>**
 
