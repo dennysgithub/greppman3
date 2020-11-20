@@ -21,7 +21,7 @@ Men det finns en lösning. <mark>Vi ska skapa ett s.k "GMB Short Name".</mark>
 **Så här gör du:**  
 _OBS! Om din Google My Business profil inte är verifierad ännu så kommer du inte att ha tillgång till den här funktionen._
 
-Logga in i ditt <a href="[https://www.google.com/intl/sv_se/business/](https://www.google.com/intl/sv_se/business/ "Google My Business")" target="_blank">Google My Business konto.</a>
+Logga in i ditt <a href="https://www.google.com/intl/sv_se/business/" target="_blank">Google My Business konto.</a>
 
 Öppna platsen du vill skapa ett GMB short name för. (om ditt företag har flera platser)
 
@@ -82,7 +82,7 @@ Allt du behöver göra är att svara på en positiv recension med ett simpelt **
 
 **<span style="font-size:22px;">Om någon ljuger rakt upp och ned och har inte ens varit kund hos oss då!?</span>**
 
-<span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="[https://twitter.com/googlemybiz?lang=sv](https://www.google.com/intl/sv_se/business/ "https://www.google.com/intl/sv_se/business/")" target="_blank">@GoogleMyBiz</a> eller via deras <a href="[https://www.facebook.com/GoogleMyBusiness/Facebook](https://www.google.com/intl/sv_se/business/ "https://www.google.com/intl/sv_se/business/")" target="_blank">Facebook sida.</a></span>
+<span style="font-size:18px;">Då behöver du rapportera recensionen. Det bästa sättet att göra detta är via sociala medier. Antingen genom twitter <a href="https://twitter.com/googlemybiz?lang=sv" target="_blank">@GoogleMyBiz</a> eller via deras <a href="https://www.facebook.com/GoogleMyBusiness/Facebook" target="_blank">Facebook sida.</a></span>
 
 Samla på dig bevismaterial i ett Google Dokument och skicka det till dem. De brukar svara inom en vecka och det kan dröja längre än så innan något händer, ibland kan det tyvärr vara svårt att få något att hända alls så man kan behöva jobba fram och tillbaka med Google ett tag.
 
