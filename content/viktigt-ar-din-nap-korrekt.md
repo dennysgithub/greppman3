@@ -48,7 +48,7 @@ När du ser över dina citations så behöver du vara väldigt noggrann.
 
 <mark>Stengatan 4, 11641, Stockholm</mark>
 
-Adresserna ovan leder givetvis till samma plats, men Google kommer se det som två olika adresser, **inte bra.**
+Adresserna ovan leder givetvis till samma plats, men Google kommer se det som två olika citations, **inte bra.**
 
 <mark>Tommys Takmåleri AB</mark>
 
