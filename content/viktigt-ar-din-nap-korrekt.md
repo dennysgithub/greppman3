@@ -60,6 +60,8 @@ Så var noga när du går igenom dina citations, och se till så du inte glömme
 
 Jag rekommenderar att du bestämmer dig för hur din citation ska skrivas, sparar det i ett dokument och kopierar och klistrar därifrån när du gör ändringar i dina citations.
 
- Detta gäller allt från din hemsida, din Google My Business profil, Eniro, sociala medier, etc, det ska se identiskt ut på samtliga plattformar.
+####  Var finns dina citations?
+
+Börja med att gå igenom din hemsida, google my business, sociala medier, eniro och liknande. 
 
 Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!**
