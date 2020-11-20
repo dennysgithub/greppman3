@@ -23,24 +23,17 @@ _OBS! Om din Google My Business profil inte är verifierad ännu så kommer du i
 
 * Logga in i ditt <a href="[https://www.google.com/intl/sv_se/business/](https://www.google.com/intl/sv_se/business/ "https://www.google.com/intl/sv_se/business/")" target="_blank">Google My Business konto.</a>
 * Öppna platsen du vill skapa ett GMB short name för. (om ditt företag har flera platser)
-* På startsidan hittar du en ruta som heter "Ditt företag finns på Google". **Klicka på "dela din företagsprofil".** ![dela-din-foretagsprofil](/images/post/dela-foretagsprofil.png)
+* På startsidan hittar du en ruta som heter "Ditt företag finns på Google". **Klicka på "dela din företagsprofil".** 
+
+  ![](/images/dela-foretagsprofil.png)
 * **Klicka på redigerings-ikonen.**
-
-![redigera-profil-namn](/images/post/redigera-namn.png)
-
 * **Välj ditt namn och klicka på tillämpa. Använd ert företagsnamn, en förkortning av det eller kanske något som kunder brukar kalla er. Håll det kort och simpelt.**
 
-Du har nu en kort & snygg länk som går direkt till din Google My Business profil.
+  ![](/images/redigera-namn.png)
+
+Du har nu skapat en kort-länk som går direkt till din Google My Business profil.
 
 <mark>Men om du tänker dela med dig av länken i syftet att skaffa recensioner så finns det ett steg till vi vill ta.</mark>
-
-***
-
-**_Uppdatering 2020-03-21:_** _Pga rådande omständigheter så har Google temporärt stängt ned vissa funktioner så som recensioner och Q&A. Finns inte rutan i din kontrollpanel så är det inte fel hos dig, utan det är Google som har stängt ned funktionen tillfälligt. Så snart de börjar öppna upp igen så går jag ut med informationen i bloggen._
-
-**Uppdatering 2020-04-10:** Google har gjort det tillgängligt att svara på recensioner igen. Fler funktioner kommer snart att öppnas upp. För mer information läs [här](https://support.google.com/business/answer/9792336?hl=en).
-
-***
 
 På startsidan hittar du rutan nedan, **klicka på "Dela recension från"**
 
