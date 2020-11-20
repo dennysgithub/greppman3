@@ -8,7 +8,7 @@ title = "Fem faktorer som påverkar din ranking i Google Maps"
 type = "post"
 
 +++
-**Är du en lokal företagare** så är en plats i Google Maps 3-pack enormt värdefull. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles 3-pack. (exempel på ett 3-pack nedan)
+**Är du en lokal företagare** så är en plats i Google Maps 3-pack ett måste. Många bryr sig inte ens om att scrolla längre ned utan väljer direkt ut ett av de tre företagen i Googles 3-pack. (exempel på ett 3-pack nedan)
 
 ![](/images/snack-pack-01.png)
 
@@ -64,7 +64,7 @@ Föga förvånande är recensioner väldigt kraftfulla när det gäller ens rank
 
 ![](/images/gmb-recensioner.png)
 
-Ofta är detta något företagare förbiser, att aktivt be sina kunder lämna en recension, kanske för att de inte förstår vikten av dem eller för att det känns obekvämt att göra så. Men ett gäng nya recensioner kan få profilen att skjuta i höjden inom loppet av bara några dagar och vipps så ringer det in fler kunder än någonsin tidigare per dag, så det är värt besväret. 
+Ofta är detta något företagare förbiser, att aktivt be sina kunder lämna en recension, kanske för att de inte förstår vikten av dem eller för att det känns obekvämt att göra så. Men ett gäng nya recensioner kan få profilen att skjuta i höjden inom loppet av bara några dagar och vipps så ringer det in fler kunder än någonsin tidigare per dag, så det är värt besväret.
 
 Ta en titt här där jag har skrivit lite tips för hur du kan generera & hantera recensioner för Google Maps.
 
