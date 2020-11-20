@@ -35,6 +35,8 @@ Klicka på redigerings-ikonen.
 
 Välj namn och klicka på tillämpa. Använd ert företagsnamn, en förkortning av det eller kanske något som kunder brukar kalla er. Håll det kort och simpelt.
 
+***
+
 Du har nu skapat en kort-länk som går direkt till din Google My Business profil.
 
 <mark>Men om du tänker dela med dig av länken i syftet att skaffa recensioner så finns det ett steg till vi behöver ta.</mark>
