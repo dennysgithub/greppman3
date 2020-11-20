@@ -39,10 +39,6 @@ Välj namn och klicka på tillämpa. Använd ert företagsnamn, en förkortning 
 
 **Bra jobbat**, du har nu skapat en kort-länk som går direkt till din Google My Business profil.
 
-<mark>Men om du tänker dela med dig av länken i syftet att skaffa recensioner så finns det ett steg till vi behöver ta.</mark>Men om du tänker dela med dig av länken i syftet att skaffa recensioner så finns det ett steg till vi behöver ta.Men om du tänker dela med dig av länken i syftet att skaffa recensioner så finns det ett steg till vi behöver ta.
-
-På startsidan hittar du rutan nedan, **klicka på "Dela recension från"**
-
 ![redigera-profil-namn](/images/post/fa-din-forsta-recension.png)
 
 Och där har du din länk. ![redigera-profil-namn](/images/post/recensions-lanken.png)
