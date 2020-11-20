@@ -53,7 +53,7 @@ Kopiera den och spara. Som du ser kan du även dela den via sociala medier direk
 
 **När någon använder länken så kommer de till din Google My Business profil och rutan för att lämna en recension poppar upp direkt.** Enklare blir det inte för en kund att lämna en recension. Testa länken själv!
 
-**<span style="font-size:23px;">Hur ska vi implementera det här nu då?</span>**
+### **Hur ska vi implementera det här nu då?**
 
 Det finns många vägar att gå men jag ska nämna några stycken.
 
