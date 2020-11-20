@@ -16,11 +16,11 @@ Alla vet hur mycket recensioner betyder. Användare som letar efter det bästa f
 
 Det jobbiga är att fråga sina kunder om en recension, det kan kännas påträngande och kanske t.om. pinsamt.
 
-Men det finns en lösning. Vi ska skapa ett s.k GMB Short Name.
+Men det finns en lösning. **Vi ska skapa ett s.k GMB Short Name.**
 
 _Så här gör du:_
 
-OBS! Om din Google My Business profil inte är verifierad ännu så kommer du inte att ha tillgång till den här funktionen.
+_OBS! Om din Google My Business profil inte är verifierad ännu så kommer du inte att ha tillgång till den här funktionen._
 
 Logga in i ditt [Google My Business konto.](https://www.google.com/intl/svse/business/)
 
