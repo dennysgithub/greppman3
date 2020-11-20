@@ -56,6 +56,10 @@ Adresserna ovan leder givetvis till samma plats, men Google kommer se det som tv
 
 Igen, samma företag, men Google kommer se det som två olika = **sämre ranking** 
 
-Så var noga när du går igenom dina citations, och se till så du inte glömmer någon sida där du lagt till din företagsinformation. Detta gäller allt från din hemsida, din Google My Business profil, Eniro, etc, det ska se identiskt ut på samtliga plattformar.
+Så var noga när du går igenom dina citations, och se till så du inte glömmer någon sida där du lagt till din företagsinformation.
 
-Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!** <a name="steg3"></a><br><br><br>
+Jag rekommenderar att du bestämmer dig för hur din citation ska skrivas, sparar det i en fil och kopierar och klistrar från den filen när du gör ändringar i dina citations.
+
+ Detta gäller allt från din hemsida, din Google My Business profil, Eniro, sociala medier, etc, det ska se identiskt ut på samtliga plattformar.
+
+Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!**
