@@ -28,6 +28,12 @@ Dina NAP uppgifter benämns ofta som "citations". En citation är dina företags
 
 Ditt företags NAP-uppgifter finns överallt på internet men om de inte ser **exakt likadana** ut på alla platser så kommer det att skapa problem.
 
+Google & andra sökmotorer använder citations för att samla så mycket information som möjligt om ditt företag. Det betyder att ju fler bra citations Google kan hitta om ditt företag desto enklare blir det för sökmotorn att förstå informationen.
+
+Om din NAP är konsistent så signalerar det Google att informationen är korrekt, vilket i sin tur innebär att Google känner sig bekväma med att visa upp det här för alla andra. 
+
+Är din NAP inte konsistent så skickar det en varning till Google och du förlorar trovärdighet i Googles ögon.
+
 Sökmotorer så som Google använder ditt företags NAP-uppgifter inom sina algoritmer för att visa det bästa möjliga resultatet för användarna när de söker på något. 
 
 Om dina NAP-uppgifter inte är konsistenta så försvagas din validering. 
@@ -42,7 +48,7 @@ Tips; Använd sökmotorverktyg som EXEMPEL och kolla vad dina konkurrenter har f
 
 NAP är med i topp 5 över viktiga rankingfaktorer. Konsistenta sådana stärker din hemsidas ranking och din Google My Business profil. 
 
-Google & andra sökmotorer använder citations för att samla så mycket information som möjligt om ditt företag. Det betyder att desto fler bra citations Google kan hitta om ditt företag desto enklare blir det för sökmotorn att förstå informationen.
+Google & andra sökmotorer använder citations för att samla så mycket information som möjligt om ditt företag. Det betyder att ju fler bra citations Google kan hitta om ditt företag desto enklare blir det för sökmotorn att förstå informationen.
 
 Om din NAP är konsistent så signalerar det Google att informationen är korrekt, vilket i sin tur innebär att Google känner sig bekväma med att visa upp det här för alla andra. 
 
