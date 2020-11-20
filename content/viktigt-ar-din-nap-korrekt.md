@@ -30,9 +30,9 @@ Ditt företags NAP-uppgifter finns överallt på internet men om de inte ser **e
 
 Sökmotorer så som Google använder ditt företags NAP-uppgifter inom sina algoritmer för att visa det bästa möjliga resultatet för användarna när de söker på något. 
 
-Om dina NAP-uppgifter inte är konsistenta så försvagas din validering. 
+Om dina NAP-uppgifter inte är konsekventa så försvagas din validering. 
 
-NAP konsistens är inte bara viktigt för Googles algoritmer; det kan också ha ett direkt inflytande på 
+NAP konsistens inte bara viktigt för Googles algoritmer; det kan också ha ett direkt inflytande på 
 
 NAP bör vara konsistent för det är en rankingfaktor. Det är också viktigt så att inte kunder dyker upp på fel plats.
 
@@ -42,27 +42,13 @@ Tips; Använd sökmotorverktyg som EXEMPEL och kolla vad dina konkurrenter har f
 
 NAP är med i topp 5 över viktiga rankingfaktorer. Konsistenta sådana stärker din hemsidas ranking och din Google My Business profil. 
 
-Our own recent BrightLocal research, [SEO Citations Study: How Many Citations Do Local Businesses Need?](https://www.brightlocal.com/research/seo-citations-study/#q1) also backs up this data, with our findings showing that local businesses ranking in the top 10 of local pack rankings all have an average of 81 citations. Those ranking in the top spot have an average of 86 citations, while the business ranked 10th had an average of 75 – suggesting the more citations containing NAP you’re able to build, the better your local rank position.
+Google & andra sökmotorer använder citations för att samla så mycket information som möjligt om ditt företag. Det betyder att desto fler bra citations Google kan hitta om ditt företag desto enklare blir det för sökmotorn att förstå informationen.
 
-It’s also known that Google (and other search engines) use citations to gather information about a business. Google essentially wants to amass as much data as it can about a business to understand it. This means that the number of citations it can find, the accuracy and consistency of that data, and the quality of where that data is pulled from all help the search engine to build a picture.
+Om din NAP är konsistent så signalerar det Google att informationen är korrekt, vilket i sin tur innebär att Google känner sig bekväma med att visa upp det här för alla andra. 
 
-If NAP consistency is apparent across the board, it’s taken as a signal that the information is accurate – meaning Google can confidently provide that same info to search users. On the flip side, a lack of NAP consistency is a red flag, eating away at trust and hampering rankings.
+Är din NAP inte konsistent så skickar det en varning till Google och du förlorar trovärdighet i Googles ögon.
 
-### NAP consistency is important for consumer trust
-
-It’s impossible to over-emphasize just how important NAP consistency is for consumer trust. More than 9 in 10 consumers in [our 2018 Local Citations Trust Report](https://www.brightlocal.com/research/local-citations-trust-report/) say they are frustrated by incorrect information in online directories.
-
-This shouldn’t come as much of a surprise, especially when you factor in that local searches tend to be driven by high intent. [Figures from Think With Google](https://www.thinkwithgoogle.com/data/local-search-to-store-visit-statistics/) show that 88% of consumers who use their smartphone to conduct a local search will visit a local store within seven days.
-
-If NAP data is inconsistent, or worse, incorrect, that consumer is likely to be significantly inconvenienced. They may travel to the wrong location. They could have a wasted trip. They may need to perform additional searches to find the correct NAP details – all of which adds up to feelings of frustration, and inevitably erodes trust in your brand. Ensuring NAP consistency removes this threat.
-
-### NAP consistency sets the tone for the consumer journey and path to purchase
-
-Google [research data](https://www.thinkwithgoogle.com/consumer-insights/mobile-search-consumer-behavior-data/) concludes that 96% of users turn to their smartphones when they have a need to get something done, with 87% of those consumers making a search engine their first port of call. This makes search results the first step on what you hope will be a path to purchase.
-
-A consumer is just as likely to find a directory listing, a Google My Business profile, a favorable article or a social media link as they are your web site. These are all discovery portals, making it even more important your NAP is consistent and up to date across the web.
-
-Just as having consistent and accurate NAP moves the consumer along the purchase journey, incorrect data can lead them to fall off that path. Plus our local citation trust report found that consumers place the onus for correcting incorrect information on the local business, not the directory site displaying the wrong details.
+Det är också enormt viktigt för att kunna bygga trovärdighet hos dina kunder, eller snarare för att inte totalt förstöra den. När kunder spenderar tid resandes för att dyka upp på fel plats kan bli kostsamt i längden.
 
 ### Inconsistent NAP data could mean you’re losing customers you may not know you had
 
