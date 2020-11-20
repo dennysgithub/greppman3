@@ -62,6 +62,8 @@ Jag rekommenderar att du bestämmer dig för hur din citation ska skrivas, spara
 
 ####  Var finns dina citations?
 
-Börja med att gå igenom din hemsida, google my business, sociala medier, eniro och liknande. 
+Börja med att gå igenom din hemsida, google my business, sociala medier, eniro och liknande sidor. Det kommer dock finnas en hel del fler som du behöver ta en titt på. Det finns SEO verktyg som kan hjälpa till med detta men de brukar vara ganska kostsamma så ett alternativ för dig är att helt enkelt söka på ditt företag i Google och klicka dig fram bland sidorna som erhåller en s.k citation för dig och ändra den.
 
 Det är inte det roligaste jobbet och ganska tidskrävande, **men ack så värt det!**
+
+#### Lycka till!
