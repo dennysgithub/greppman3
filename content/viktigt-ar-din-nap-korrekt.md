@@ -40,11 +40,9 @@ Nio av tio konsumenter säger att de kollar upp ett företags adress på nätet 
 
 #### Hur konsistent behöver du vara? 
 
-**Det viktigaste just nu är att du måste se till så att dina citations ser exakt likadana ut överallt på nätet.**
+När du ser över dina citations så behöver du vara väldigt noggrann. 
 
-Innan du ger dig ut på jakt efter citations att fixa till så kan det vara bra att bestämma dig för exakt hur du vill att företagets citation ska se ut och skriva ned det till punkt och pricka i ett textdokument på datorn redo till hands.
-
-**Nedan visar jag några exempel så du får en idé över hur noggrann du behöver vara.**
+**Nedan visar jag några exempel så du får en idé över precis hur noggrann du behöver vara.**
 
 <mark>Stengatan 4 lgh 1201, 11641, Stockholm</mark>
 
