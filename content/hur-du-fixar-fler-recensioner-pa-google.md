@@ -21,17 +21,19 @@ Men det finns en lösning. <mark>Vi ska skapa ett s.k "GMB Short Name".</mark>
 **Så här gör du:**  
 _OBS! Om din Google My Business profil inte är verifierad ännu så kommer du inte att ha tillgång till den här funktionen._
 
-* Logga in i ditt <a href="[https://www.google.com/intl/sv_se/business/](https://www.google.com/intl/sv_se/business/ "https://www.google.com/intl/sv_se/business/")" target="_blank">Google My Business konto.</a>
-* Öppna platsen du vill skapa ett GMB short name för. (om ditt företag har flera platser)
-* På startsidan hittar du en ruta som heter "Ditt företag finns på Google". **Klicka på "dela din företagsprofil".** 
+Logga in i ditt <a href="[https://www.google.com/intl/sv_se/business/](https://www.google.com/intl/sv_se/business/ "https://www.google.com/intl/sv_se/business/")" target="_blank">Google My Business konto.</a>
 
-  ![](/images/dela-foretagsprofil.png)
+Öppna platsen du vill skapa ett GMB short name för. (om ditt företag har flera platser)
 
-  Klicka på redigerings-ikonen.
+På startsidan hittar du en ruta som heter "Ditt företag finns på Google". **Klicka på "dela din företagsprofil".** 
 
-  Välj ditt namn och klicka på tillämpa. Använd ert företagsnamn, en förkortning av det eller kanske något som kunder brukar kalla er. Håll det kort och simpelt.
+![](/images/redigera-namn.png)
 
-  ![](/images/redigera-namn.png)
+Klicka på redigerings-ikonen.
+
+Välj namn och klicka på tillämpa. Använd ert företagsnamn, en förkortning av det eller kanske något som kunder brukar kalla er. Håll det kort och simpelt.
+
+![](/images/redigera-namn.png)
 
 Du har nu skapat en kort-länk som går direkt till din Google My Business profil.
 
