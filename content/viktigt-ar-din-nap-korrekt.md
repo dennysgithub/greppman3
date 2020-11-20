@@ -3,7 +3,6 @@ author = "DAN"
 categories = []
 date = 2020-11-11T23:00:00Z
 description = "NAP är en väldigt viktig faktor för lokal sökmotoroptimering och påverkar vad Google och andra sökmotorer visar för resultat."
-draft = true
 image = "/images/thumbnail-nap-1.png"
 title = "Viktig rankingfaktor! Är din NAP korrekt?"
 type = "post"
