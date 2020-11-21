@@ -70,9 +70,9 @@ Men du har säkert själv kollat in recensionerna innan du bestämt dig för en 
 
 De förbättrar inte bara din ranking i Google Maps och gör det mer lockande för kunder att göra affärer med er, ni kan även använda de många positiva recensionerna som ett marknadsföringsverktyg.
 
-Så det är väldigt viktigt att uppmuntra dina kunder till att lämna en recension. Jag har skrivit ett inlägg om hur du kan göra för att generera fler recensioner som du kan läsa [här]().
+Så det är väldigt viktigt att uppmuntra dina kunder till att lämna en recension.
 
-Ta en titt här där jag har skrivit [hur du fixar fler Google recensioner.](https://www.greppman.se/hur-du-fixar-fler-google-recensioner/)
+Du kan ta en titt här där jag har skrivit om [hur du fixar fler Google recensioner.](https://www.greppman.se/hur-du-fixar-fler-google-recensioner/)
 
 #### **Så, där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
 
