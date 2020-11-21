@@ -64,7 +64,7 @@ Föga förvånande så kan recensioner vara ett av de mest effektiva sätten att
 
 ![](/images/gmb-recensioner.png)
 
-Många företag investerar tid & pengar i annonser och annan marknadsföring men förbiser helt betydelsen av recensioner. 
+Många företag investerar tid & pengar i annonser och annan marknadsföring men förbiser helt betydelsen av recensioner.
 
 Men du har säkert själv kollat in recensionerna innan du bestämt dig för en ny frisör eller när du behövde en låssmed, eller hur? Så du vet hur inflytelserika dom är!
 
@@ -72,7 +72,7 @@ De förbättrar inte bara din ranking i Google Maps och gör det mer lockande f�
 
 Så det är väldigt viktigt att uppmuntra dina kunder till att lämna en recension. Jag har skrivit ett inlägg om hur du kan göra för att generera fler recensioner som du kan läsa [här]().
 
-Ta en titt här där jag har skrivit lite tips för hur du kan generera & hantera recensioner för Google Maps.
+Ta en titt här där jag har skrivit [hur du fixar fler Google recensioner.](https://www.greppman.se/hur-du-fixar-fler-google-recensioner/)
 
 #### **Så, där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
 
