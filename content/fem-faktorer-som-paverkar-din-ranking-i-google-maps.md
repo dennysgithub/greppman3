@@ -18,7 +18,7 @@ Det finns många olika funktioner i Google My Business men fem av dom har enligt
 
 Att verifiera din Google My Business profil är viktigt, inte bara för bättre ranking men också av säkerhetsskäl. När din profil inte är verifierad så kan vem som helst ändra informationen eller t.om. ta över ägarskapet för den.
 
-Om du inte vet om din profil är verifierad så kan du använda [Google's verifieringskontroll](https://support.google.com/business/workflow/9289460?hl=sv "Google's verifieringskontroll")
+Om du inte vet om din profil är verifierad så kan du använda [Google's verifieringskontroll](https://support.google.com/business/workflow/9289460?hl=sv "Google's verifieringskontroll").
 
 Har du inte verifierat din profil än så kan du enkelt göra det genom att besöka [den här länken](https://support.google.com/business/answer/7107242?hl=sv "den här länken") och följa stegen som Google tar dig igenom.
 
@@ -75,8 +75,6 @@ Så det är väldigt viktigt att uppmuntra dina kunder till att lämna en recens
 Du kan ta en titt här där jag har skrivit om [hur du fixar fler Google recensioner.](https://www.greppman.se/hur-du-fixar-fler-google-recensioner/)
 
 #### **Så, där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
-
- 
 
 > Jag rekommenderar dock fortfarande att lägga till många foton, skapa Q&A’s, särskilda öppettider och annat för att göra profilen så engagerande som möjligt för besökarna.
 >
