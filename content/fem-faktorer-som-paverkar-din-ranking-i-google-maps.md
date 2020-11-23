@@ -64,6 +64,8 @@ Nu kanske det är så att företagen under inte bara sysslar med brottmål och d
 
 Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra till din ranking i Google Maps, **så se till så din hemsida är ordentligt sökmotoroptimerad**.
 
+Har du optimerat den för de sökord du vill dyka upp för? Fungerar den som den ska på mobiler? Är den så långsam att folk klickar tillbaka innan sidan hinner laddas? Vet du hur många som besöker hemsidan? Hur många av dem konverteras till kunder? 
+
 Har du en verksamhet som finns på olika platser i landet och således har flera olika Google My Business profiler? Då rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.<br>
 
 ## **5. Recensioner, ju fler desto bättre.**
