@@ -86,13 +86,7 @@ Så det är väldigt viktigt att uppmuntra dina kunder till att lämna en recens
 
 Du kan ta en titt här där jag har skrivit om [hur du fixar fler Google recensioner.](https://www.greppman.se/hur-du-fixar-fler-google-recensioner/)
 
-  
-
-  
-
-<br>
-
-</br>
+***
 
 #### **Så, där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
 
