@@ -66,7 +66,9 @@ Om din hemsida rankar bra i Googles organiska sökfält så kommer det bidra til
 
 Har du optimerat den för de sökord du vill dyka upp för? Fungerar den som den ska på mobiler? Är den så långsam att folk klickar tillbaka innan sidan hinner laddas? Vet du hur många som besöker hemsidan? Hur många av dem konverteras till kunder? 
 
-Har du en verksamhet som finns på olika platser i landet och således har flera olika Google My Business profiler? Då rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.<br>
+Att inte se över hemsidan är som att aldrig besiktiga bilen och förvänta sig att den alltid kommer fungera bra.
+
+Om du skulle ha en verksamhet som existerar på olika platser i landet och således har flera olika Google My Business profiler så rekommenderar jag att du länkar från profilerna till speciella platser på din hemsida som hanterar just de platserna för ökad effekt, istället för att länka till huvudsidan från allihop.<br>
 
 ## **5. Recensioner, ju fler desto bättre.**
 
