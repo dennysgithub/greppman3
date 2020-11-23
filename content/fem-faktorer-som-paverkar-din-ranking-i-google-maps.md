@@ -88,6 +88,8 @@ Du kan ta en titt här där jag har skrivit om [hur du fixar fler Google recensi
 
 ***
 
+***
+
 #### **Så, där har du fem faktorer som garanterat har ett inflytande på er ranking i Google Maps.**
 
 > Jag rekommenderar dock fortfarande att lägga till många foton, särskilda öppettider, skapa Q&A’s och annat för att göra profilen så engagerande som möjligt för besökarna.
