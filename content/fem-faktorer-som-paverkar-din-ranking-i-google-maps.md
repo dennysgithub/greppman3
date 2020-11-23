@@ -30,7 +30,7 @@ Företagsnamnet kan ha en stor påverkan på din ranking i Google Maps, vilket �
 
 Du har kanske ingen större lust att ändra ditt företagsnamn eller ens möjlighet att göra så men vad du kan göra är att titta på dina konkurrenter som drar fördel av detta genom att lägga till s.k ”sökord” i sina företagsnamn och föreslå en ändring eftersom det strider mot Googles riktlinjer.
 
-Här ser du t.ex. ett företag som skapat en profil som heter "Rörmokarn' i Göteborg" för att kunna dyka upp högt för just de sökorden. När du sedan klickar på deras hemsida så kommer du till "Partille VVS & Entreprenad"
+Här ser du t.ex. ett företag som skapat en profil som heter "Rörmokarn' i Göteborg" för att kunna dyka upp högt för just de sökorden. När du sedan klickar på deras hemsida så kommer du till "Partille VVS & Entreprenad".
 
 ![](/images/foretagsnamn-gmb.gif)
 
