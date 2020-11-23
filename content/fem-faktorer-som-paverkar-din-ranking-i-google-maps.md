@@ -42,7 +42,9 @@ Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då d
 
 ## **3. Val av kategori.**
 
-Att välja kategori kan verka självklart men det är inte alltid så rättframt som man kan tro. Jag rekommenderar att inte bara välja den kategorin som bäst beskriver er verksamhets tjänster och produkter utan att välja den kategorin som ni också vill ranka högst för. 
+Att välja kategori kan verka självklart men det är inte alltid så rättframt som man kan tro. 
+
+Jag rekommenderar att inte bara välja den kategorin som bäst beskriver er verksamhets tjänster och produkter utan att välja den kategorin som ni också vill ranka högst för. 
 
 Du kanske är en VVS-entreprenör som rankar bra för generella rörmokar-termer men skulle vilja fokusera mer på kylteknik. Då rekommenderar jag att du ska välja den kategorin där du vill växa mest. 
 
