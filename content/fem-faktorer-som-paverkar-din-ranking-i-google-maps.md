@@ -46,7 +46,9 @@ Att välja kategori kan verka självklart men det är inte alltid så rättframt
 
 Du kanske är en VVS-entreprenör som rankar bra för generella rörmokar-termer men skulle vilja fokusera mer på kylteknik. Då rekommenderar jag att du ska välja den kategorin där du vill växa mest. 
 
-Välj den kategorin som bäst beskriver er verksamhet. Men ta även en titt på konkurrenterna som rankar överst i Google Maps listan, vad har de valt för kategori? Oftast kan man se ett tydligt mönster där.
+Glöm inte bort att se till så att hemsidan är sökmotoroptimerad för kategorin du väljer. 
+
+Ett annat tips är att ta en titt på dina konkurrenter som rankar högst för de termerna du är ute efter, vad har de valt för kategori? Ofta kan man se ett tydligt mönster där.
 
 Ta brottmålsadvokat som exempel.
 
