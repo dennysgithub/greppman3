@@ -42,6 +42,8 @@ Jag rekommenderar inte att själv lägga till sökord i ditt företagsnamn då d
 
 ## **3. Val av kategori.**
 
+Kategorier är också en viktig rankingfaktor som är värd att se över. 
+
 Välj den kategorin som bäst beskriver er verksamhet. Men ta även en titt på konkurrenterna som rankar överst i Google Maps listan, vad har de valt för kategori? Oftast kan man se ett tydligt mönster där.
 
 Ta brottmålsadvokat som exempel.
